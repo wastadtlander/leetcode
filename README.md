@@ -34,3 +34,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1749](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)
   * [m_921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
   * [m_515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+  * [e_872](https://leetcode.com/problems/leaf-similar-trees/)
