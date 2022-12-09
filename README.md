@@ -37,3 +37,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_872](https://leetcode.com/problems/leaf-similar-trees/)
   * [e_509](https://leetcode.com/problems/fibonacci-number/)
   * [e_1137](https://leetcode.com/problems/n-th-tribonacci-number/)
+* December 8, 2022
+  * [m_1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
