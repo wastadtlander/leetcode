@@ -44,3 +44,4 @@ Profile: https://leetcode.com/wastadtlander/
 * December 10, 2022
   * [e_977](https://leetcode.com/problems/squares-of-a-sorted-array/)
   * [e_867](https://leetcode.com/problems/transpose-matrix/)
+  * [e_70](https://leetcode.com/problems/climbing-stairs/)
