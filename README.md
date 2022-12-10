@@ -43,3 +43,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
 * December 10, 2022
   * [e_977](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  * [e_867](https://leetcode.com/problems/transpose-matrix/)
