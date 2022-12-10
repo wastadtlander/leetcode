@@ -45,3 +45,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_977](https://leetcode.com/problems/squares-of-a-sorted-array/)
   * [e_867](https://leetcode.com/problems/transpose-matrix/)
   * [e_70](https://leetcode.com/problems/climbing-stairs/)
+  * [e_746](https://leetcode.com/problems/min-cost-climbing-stairs/)
