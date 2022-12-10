@@ -41,3 +41,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 * December 9, 2022
   * [m_1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
+* December 10, 2022
+  * [e_977](https://leetcode.com/problems/squares-of-a-sorted-array/)
