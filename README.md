@@ -39,3 +39,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_1137](https://leetcode.com/problems/n-th-tribonacci-number/)
 * December 8, 2022
   * [m_1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
+* December 9, 2022
+  * [m_1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
