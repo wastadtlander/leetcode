@@ -54,3 +54,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_931](https://leetcode.com/problems/minimum-falling-path-sum/)
 * December 13, 2022
   * [m_198](https://leetcode.com/problems/house-robber/)
+* December 14, 2022
+  * [m_1143](https://leetcode.com/problems/longest-common-subsequence/)
