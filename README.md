@@ -58,3 +58,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1143](https://leetcode.com/problems/longest-common-subsequence/)
 * December 15, 2022
   * [e_232](https://leetcode.com/problems/implement-queue-using-stacks/)
+* December 16, 2022
+  * [m_150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
