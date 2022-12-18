@@ -60,3 +60,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_232](https://leetcode.com/problems/implement-queue-using-stacks/)
 * December 16, 2022
   * [m_150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+* December 17, 2022
+  * [m_739](https://leetcode.com/problems/daily-temperatures/)
