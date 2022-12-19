@@ -64,3 +64,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_739](https://leetcode.com/problems/daily-temperatures/)
 * December 18, 2022
   * [e_1971](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+* December 19, 2022
+  * [e_1791](https://leetcode.com/problems/find-center-of-star-graph/)
