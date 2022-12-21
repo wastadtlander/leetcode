@@ -67,3 +67,5 @@ Profile: https://leetcode.com/wastadtlander/
 * December 19, 2022
   * [e_1791](https://leetcode.com/problems/find-center-of-star-graph/)
   * [m_841](https://leetcode.com/problems/keys-and-rooms/)
+* December 20, 2022
+  * [m_886](https://leetcode.com/problems/possible-bipartition/)
