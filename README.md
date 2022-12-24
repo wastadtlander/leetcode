@@ -77,3 +77,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 * December 23, 2022
   * [m_790](https://leetcode.com/problems/domino-and-tromino-tiling/)
+* December 24, 2022
+  * [m_797](https://leetcode.com/problems/all-paths-from-source-to-target/)
