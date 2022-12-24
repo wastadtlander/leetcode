@@ -79,3 +79,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_790](https://leetcode.com/problems/domino-and-tromino-tiling/)
 * December 24, 2022
   * [m_797](https://leetcode.com/problems/all-paths-from-source-to-target/)
+  * [m_1557](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
