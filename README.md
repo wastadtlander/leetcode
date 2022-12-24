@@ -75,3 +75,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_997](https://leetcode.com/problems/find-the-town-judge/)
 * December 22, 2022
   * [m_309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+* December 23, 2022
+  * [m_790](https://leetcode.com/problems/domino-and-tromino-tiling/)
