@@ -84,3 +84,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [h_980](https://leetcode.com/problems/unique-paths-iii/)
 * December 25, 2022
   * [m_959](https://leetcode.com/problems/regions-cut-by-slashes/)
+  * [m_547](https://leetcode.com/problems/number-of-provinces/)
