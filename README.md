@@ -80,3 +80,4 @@ Profile: https://leetcode.com/wastadtlander/
 * December 24, 2022
   * [m_797](https://leetcode.com/problems/all-paths-from-source-to-target/)
   * [m_1557](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+  * [e_2389](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
