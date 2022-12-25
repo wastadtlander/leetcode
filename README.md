@@ -82,3 +82,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1557](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
   * [e_2389](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
   * [h_980](https://leetcode.com/problems/unique-paths-iii/)
+* December 25, 2022
+  * [m_959](https://leetcode.com/problems/regions-cut-by-slashes/)
