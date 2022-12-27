@@ -86,3 +86,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_959](https://leetcode.com/problems/regions-cut-by-slashes/)
   * [m_547](https://leetcode.com/problems/number-of-provinces/)
   * [m_55](https://leetcode.com/problems/jump-game/)
+* December 26, 2022
+  * [m_2279](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
