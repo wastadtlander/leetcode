@@ -90,3 +90,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_2279](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
 * December 27, 2022
   * [m_525](https://leetcode.com/problems/contiguous-array/)
+  * [m_1962](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)
