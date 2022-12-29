@@ -91,3 +91,5 @@ Profile: https://leetcode.com/wastadtlander/
 * December 27, 2022
   * [m_525](https://leetcode.com/problems/contiguous-array/)
   * [m_1962](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)
+* December 28, 2022
+  * [m_1834](https://leetcode.com/problems/single-threaded-cpu/)
