@@ -102,3 +102,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_290](https://leetcode.com/problems/word-pattern/)
 * January 1, 2023
   * [e_520](https://leetcode.com/problems/detect-capital/)
+  * [h_135](https://leetcode.com/problems/candy/)
