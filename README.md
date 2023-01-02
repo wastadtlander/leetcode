@@ -98,4 +98,7 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_797](https://leetcode.com/problems/all-paths-from-source-to-target/)
 * December 30, 2022
   * [h_980](https://leetcode.com/problems/unique-paths-iii/)
+* December 31, 2022
   * [e_290](https://leetcode.com/problems/word-pattern/)
+* January 1, 2023
+  * [e_520](https://leetcode.com/problems/detect-capital/)
