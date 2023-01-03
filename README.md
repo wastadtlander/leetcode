@@ -107,3 +107,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_944](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 * January 3, 2023
   * [m_49](https://leetcode.com/problems/group-anagrams/)
+  * [h_1402](https://leetcode.com/problems/reducing-dishes/)
