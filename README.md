@@ -103,3 +103,5 @@ Profile: https://leetcode.com/wastadtlander/
 * January 1, 2023
   * [e_520](https://leetcode.com/problems/detect-capital/)
   * [h_135](https://leetcode.com/problems/candy/)
+* January 2, 2023
+  * [e_944](https://leetcode.com/problems/delete-columns-to-make-sorted/)
