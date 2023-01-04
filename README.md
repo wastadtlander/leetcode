@@ -108,3 +108,4 @@ Profile: https://leetcode.com/wastadtlander/
 * January 3, 2023
   * [m_49](https://leetcode.com/problems/group-anagrams/)
   * [h_1402](https://leetcode.com/problems/reducing-dishes/)
+  * [m_2244](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
