@@ -109,3 +109,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_49](https://leetcode.com/problems/group-anagrams/)
   * [h_1402](https://leetcode.com/problems/reducing-dishes/)
   * [m_2244](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+* January 4, 2022
+  * [m_452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
