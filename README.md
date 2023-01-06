@@ -113,3 +113,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 * January 5, 2022
   * [m_1833](https://leetcode.com/problems/maximum-ice-cream-bars/)
+  * [h_502](https://leetcode.com/problems/ipo/)
