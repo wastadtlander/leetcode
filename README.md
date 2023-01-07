@@ -119,3 +119,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2413](https://leetcode.com/problems/smallest-even-multiple/)
   * [m_134](https://leetcode.com/problems/gas-station/)
   * [e_136](https://leetcode.com/problems/single-number/)
+* January 7, 2022
+  * [e_2525](https://leetcode.com/problems/categorize-box-according-to-criteria/)
