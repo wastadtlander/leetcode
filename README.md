@@ -118,3 +118,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2011](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
   * [e_2413](https://leetcode.com/problems/smallest-even-multiple/)
   * [m_134](https://leetcode.com/problems/gas-station/)
+  * [e_136](https://leetcode.com/problems/single-number/)
