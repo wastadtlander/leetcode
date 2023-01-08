@@ -124,3 +124,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [h_149](https://leetcode.com/problems/max-points-on-a-line/)
 * January 8, 2022
   * [m_54](https://leetcode.com/problems/spiral-matrix/)
+  * [m_2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
