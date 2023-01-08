@@ -122,4 +122,5 @@ Profile: https://leetcode.com/wastadtlander/
 * January 7, 2022
   * [e_2525](https://leetcode.com/problems/categorize-box-according-to-criteria/)
   * [h_149](https://leetcode.com/problems/max-points-on-a-line/)
+* January 8, 2022
   * [m_54](https://leetcode.com/problems/spiral-matrix/)
