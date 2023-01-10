@@ -126,3 +126,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_54](https://leetcode.com/problems/spiral-matrix/)
   * [m_2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
   * [e_144](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+* January 10, 2022
+  * [e_100](https://leetcode.com/problems/same-tree/)
