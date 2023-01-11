@@ -134,3 +134,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_11](https://leetcode.com/problems/container-with-most-water/)
   * [m_524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
   * [m_1726](https://leetcode.com/problems/tuple-with-same-product/)
+  * [m_789](https://leetcode.com/problems/escape-the-ghosts/)
