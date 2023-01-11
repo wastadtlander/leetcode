@@ -128,3 +128,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_144](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 * January 10, 2022
   * [e_100](https://leetcode.com/problems/same-tree/)
+  * [m_1443](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
