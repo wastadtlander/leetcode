@@ -138,3 +138,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1519](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
 * January 12, 2022
   * [h_2246](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
+* January 29, 2022
+  * [e_1137](https://leetcode.com/problems/n-th-tribonacci-number/)
