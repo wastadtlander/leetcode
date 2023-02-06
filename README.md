@@ -140,3 +140,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [h_2246](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
 * January 29, 2022
   * [e_1137](https://leetcode.com/problems/n-th-tribonacci-number/)
+* February 5, 2023
+  * [e_1470](https://leetcode.com/problems/shuffle-the-array/)
