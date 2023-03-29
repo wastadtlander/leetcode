@@ -144,3 +144,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_1470](https://leetcode.com/problems/shuffle-the-array/)
 * February 7, 2023
   * [m_904](https://leetcode.com/problems/fruit-into-baskets/)
+* March 29, 2023
+  * [m_1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)
