@@ -147,3 +147,5 @@ Profile: https://leetcode.com/wastadtlander/
 * March 29, 2023
   * [m_1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)
   * [m_2410](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/)
+* May 1, 2023
+  * [e_1882](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
