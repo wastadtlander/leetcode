@@ -155,3 +155,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_35](https://leetcode.com/problems/search-insert-position/)
   * [e_58](https://leetcode.com/problems/length-of-last-word/)
   * [e_66](https://leetcode.com/problems/plus-one/)
+  * [e_27](https://leetcode.com/problems/remove-element/)
