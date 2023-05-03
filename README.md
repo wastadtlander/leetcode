@@ -152,3 +152,4 @@ Profile: https://leetcode.com/wastadtlander/
 * May 3, 2023
   * [e_2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
   * [e_28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+  * [e_35](https://leetcode.com/problems/search-insert-position/)
