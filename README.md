@@ -151,3 +151,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_1882](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
 * May 3, 2023
   * [e_2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
+  * [e_28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
