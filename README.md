@@ -149,3 +149,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_2410](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/)
 * May 1, 2023
   * [e_1882](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
+* May 3, 2023
+  * [e_2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
