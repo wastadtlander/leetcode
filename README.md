@@ -163,3 +163,4 @@ Profile: https://leetcode.com/wastadtlander/
 * May 11, 2023
   * [m_2140](https://leetcode.com/problems/solving-questions-with-brainpower/)
   * [m_64](https://leetcode.com/problems/minimum-path-sum/)
+  * [e_2605](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)
