@@ -164,3 +164,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_2140](https://leetcode.com/problems/solving-questions-with-brainpower/)
   * [m_64](https://leetcode.com/problems/minimum-path-sum/)
   * [e_2605](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)
+  * [m_2606](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)
