@@ -166,3 +166,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2605](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)
   * [m_2606](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)
   * [m_2284](https://leetcode.com/problems/sender-with-largest-word-count/)
+* November 12, 2023
+  * [h_815](https://leetcode.com/problems/bus-routes/)
