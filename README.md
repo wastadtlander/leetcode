@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-All leetcode problems completed past 11/21/2022.
+All leetcode problems completed 11/21/2022 --> 05/11/2023 & 11/12/2023 --> Current.
 
 * e_*: Easy Problem
 * m_*: Medium Problem
