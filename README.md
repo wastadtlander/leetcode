@@ -170,3 +170,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [h_815](https://leetcode.com/problems/bus-routes/)
   * [m_2785](https://leetcode.com/problems/sort-vowels-in-a-string/)
   * [m_1109](https://leetcode.com/problems/corporate-flight-bookings)
+  * [m_1006](https://leetcode.com/problems/clumsy-factorial/)
