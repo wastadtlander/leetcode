@@ -171,3 +171,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_2785](https://leetcode.com/problems/sort-vowels-in-a-string/)
   * [m_1109](https://leetcode.com/problems/corporate-flight-bookings)
   * [m_1006](https://leetcode.com/problems/clumsy-factorial/)
+  * [m_2497](https://leetcode.com/problems/maximum-star-sum-of-a-graph/)
