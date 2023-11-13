@@ -173,4 +173,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1006](https://leetcode.com/problems/clumsy-factorial/)
   * [m_2497](https://leetcode.com/problems/maximum-star-sum-of-a-graph/)
 * November 13, 2023
-  * [e_2733](https://leetcode.com/problems/neither-minimum-nor-maximum/)  
+  * [e_2733](https://leetcode.com/problems/neither-minimum-nor-maximum/)
+  * [m_235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
