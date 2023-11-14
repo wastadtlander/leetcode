@@ -175,3 +175,5 @@ Profile: https://leetcode.com/wastadtlander/
 * November 13, 2023
   * [e_2733](https://leetcode.com/problems/neither-minimum-nor-maximum/)
   * [m_235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* November 14, 2023
+  * [m_1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) 
