@@ -179,3 +179,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)
 * November 15, 2023
   * [m_1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)
+  * [m_1936](https://leetcode.com/problems/add-minimum-number-of-rungs/)
