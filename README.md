@@ -184,4 +184,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/)
   * [m_2933](https://leetcode.com/problems/high-access-employees/)
 * November 16, 2023
-  * [e_1518](https://leetcode.com/problems/water-bottles/) 
+  * [e_1518](https://leetcode.com/problems/water-bottles/)
+  * [m_289](https://leetcode.com/problems/game-of-life/)
