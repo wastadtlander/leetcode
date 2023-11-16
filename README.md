@@ -181,3 +181,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)
   * [m_1936](https://leetcode.com/problems/add-minimum-number-of-rungs/)
   * [m_1980](https://leetcode.com/problems/find-unique-binary-string/)
+  * [e_2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/)
+  * [m_2933](https://leetcode.com/problems/high-access-employees/)
