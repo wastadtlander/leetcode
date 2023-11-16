@@ -183,3 +183,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1980](https://leetcode.com/problems/find-unique-binary-string/)
   * [e_2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/)
   * [m_2933](https://leetcode.com/problems/high-access-employees/)
+* November 16, 2023
+  * [e_1518](https://leetcode.com/problems/water-bottles/) 
