@@ -180,3 +180,4 @@ Profile: https://leetcode.com/wastadtlander/
 * November 15, 2023
   * [m_1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)
   * [m_1936](https://leetcode.com/problems/add-minimum-number-of-rungs/)
+  * [m_1980](https://leetcode.com/problems/find-unique-binary-string/)
