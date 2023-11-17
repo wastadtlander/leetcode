@@ -191,3 +191,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_953](https://leetcode.com/problems/verifying-an-alien-dictionary/)
   * [e_2490](https://leetcode.com/problems/circular-sentence/)
   * [e_2535](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)
+* November 17, 2023
+  * [e_1389](https://leetcode.com/problems/create-target-array-in-the-given-order/) 
