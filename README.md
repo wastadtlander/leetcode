@@ -190,3 +190,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2418](https://leetcode.com/problems/sort-the-people/)
   * [e_953](https://leetcode.com/problems/verifying-an-alien-dictionary/)
   * [e_2490](https://leetcode.com/problems/circular-sentence/)
+  * [e_2535](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)
