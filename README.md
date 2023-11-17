@@ -188,3 +188,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_289](https://leetcode.com/problems/game-of-life/)
   * [m_1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
   * [e_2418](https://leetcode.com/problems/sort-the-people/)
+  * [e_953](https://leetcode.com/problems/verifying-an-alien-dictionary/)
