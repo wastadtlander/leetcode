@@ -195,4 +195,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_1389](https://leetcode.com/problems/create-target-array-in-the-given-order/)
   * [m_437](https://leetcode.com/problems/path-sum-iii/)
 * November 18, 2023
-  * [m_1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) 
+  * [m_1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+  * [e_1394](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
