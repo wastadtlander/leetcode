@@ -197,3 +197,6 @@ Profile: https://leetcode.com/wastadtlander/
 * November 18, 2023
   * [m_1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
   * [e_1394](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
+  * [e_2937](https://leetcode.com/problems/make-three-strings-equal/)
+  * [m_2938](https://leetcode.com/problems/separate-black-and-white-balls/)
+  * [m_2939](https://leetcode.com/problems/maximum-xor-product/)
