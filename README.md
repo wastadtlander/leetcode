@@ -205,3 +205,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_198](https://leetcode.com/problems/house-robber/)
   * [m_152](https://leetcode.com/problems/maximum-product-subarray/)
   * [e_628](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+* November 19, 2023
+  * [e_884](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
