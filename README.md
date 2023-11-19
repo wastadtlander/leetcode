@@ -200,3 +200,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2937](https://leetcode.com/problems/make-three-strings-equal/)
   * [m_2938](https://leetcode.com/problems/separate-black-and-white-balls/)
   * [m_2939](https://leetcode.com/problems/maximum-xor-product/)
+  * [m_1887](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/)
