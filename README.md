@@ -209,3 +209,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_884](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
   * [m_210](https://leetcode.com/problems/course-schedule-ii/)
   * [m_1895](https://leetcode.com/problems/largest-magic-square/)
+  * [m_740](https://leetcode.com/problems/delete-and-earn/)
