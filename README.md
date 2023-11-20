@@ -213,3 +213,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_213](https://leetcode.com/problems/house-robber-ii/)
   * [m_337](https://leetcode.com/problems/house-robber-iii/)
   * [m_2140](https://leetcode.com/problems/solving-questions-with-brainpower/)
+  * [m_2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)
