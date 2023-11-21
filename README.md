@@ -221,3 +221,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1814](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
   * [e_67](https://leetcode.com/problems/add-binary/)
   * [e_69](https://leetcode.com/problems/sqrtx/)
+  * [e_83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
