@@ -23,7 +23,7 @@ public:
     void inorder(TreeNode* root, vector<int>& ret) {
         if (!root) return;
         inorder(root->left, ret);
-        inorder(root->right, ret);
         ret.push_back(root->val);
+        inorder(root->right, ret);
     }
 };
