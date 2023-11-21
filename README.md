@@ -227,3 +227,4 @@ Profile: https://leetcode.com/wastadtlander/
 * November 21, 2023
   * [e_145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
   * [e_171](https://leetcode.com/problems/excel-sheet-column-number/)
+  * [e_190](https://leetcode.com/problems/reverse-bits/)
