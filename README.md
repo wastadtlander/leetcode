@@ -231,3 +231,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_203](https://leetcode.com/problems/remove-linked-list-elements/)
   * [e_219](https://leetcode.com/problems/contains-duplicate-ii/)
   * [m_784](https://leetcode.com/problems/letter-case-permutation/)
+  * [m_794](https://leetcode.com/problems/valid-tic-tac-toe-state/)
