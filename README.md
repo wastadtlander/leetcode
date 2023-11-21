@@ -223,3 +223,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_69](https://leetcode.com/problems/sqrtx/)
   * [e_83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
   * [e_94](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+  * [e_111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
