@@ -225,4 +225,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_94](https://leetcode.com/problems/binary-tree-inorder-traversal/)
   * [e_111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 * November 21, 2023
-  * [e_145](https://leetcode.com/problems/binary-tree-postorder-traversal/) 
+  * [e_145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+  * [e_171](https://leetcode.com/problems/excel-sheet-column-number/)
