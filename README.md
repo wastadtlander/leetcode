@@ -220,3 +220,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_519](https://leetcode.com/problems/random-flip-matrix/)
   * [m_1814](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
   * [e_67](https://leetcode.com/problems/add-binary/)
+  * [e_69](https://leetcode.com/problems/sqrtx/)
