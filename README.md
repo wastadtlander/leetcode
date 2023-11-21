@@ -219,3 +219,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_643](https://leetcode.com/problems/maximum-average-subarray-i/)
   * [m_519](https://leetcode.com/problems/random-flip-matrix/)
   * [m_1814](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
+  * [e_67](https://leetcode.com/problems/add-binary/)
