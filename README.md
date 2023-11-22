@@ -235,3 +235,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_900](https://leetcode.com/problems/rle-iterator/)
   * [m_300](https://leetcode.com/problems/longest-increasing-subsequence/)
   * [m_300](https://leetcode.com/problems/longest-increasing-subsequence/)(Segment Tree Implementation)
+  * [m_1041](https://leetcode.com/problems/robot-bounded-in-circle/)
