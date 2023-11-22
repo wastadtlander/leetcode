@@ -233,3 +233,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_784](https://leetcode.com/problems/letter-case-permutation/)
   * [m_794](https://leetcode.com/problems/valid-tic-tac-toe-state/)
   * [m_900](https://leetcode.com/problems/rle-iterator/)
+  * [m_300](https://leetcode.com/problems/longest-increasing-subsequence/)
