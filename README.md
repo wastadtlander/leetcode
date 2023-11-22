@@ -236,4 +236,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_300](https://leetcode.com/problems/longest-increasing-subsequence/)
   * [m_300](https://leetcode.com/problems/longest-increasing-subsequence/)(Segment Tree Implementation)
   * [m_1041](https://leetcode.com/problems/robot-bounded-in-circle/)
+* November 22, 2023
   * [m_1424](https://leetcode.com/problems/diagonal-traverse-ii/)
