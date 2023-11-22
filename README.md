@@ -234,3 +234,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_794](https://leetcode.com/problems/valid-tic-tac-toe-state/)
   * [m_900](https://leetcode.com/problems/rle-iterator/)
   * [m_300](https://leetcode.com/problems/longest-increasing-subsequence/)
+  * [m_300](https://leetcode.com/problems/longest-increasing-subsequence/)(Segment Tree Implementation)
