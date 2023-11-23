@@ -239,3 +239,4 @@ Profile: https://leetcode.com/wastadtlander/
 * November 22, 2023
   * [m_1424](https://leetcode.com/problems/diagonal-traverse-ii/)
   * [m_1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
+  * [m_1333](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)
