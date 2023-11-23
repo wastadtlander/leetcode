@@ -242,3 +242,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1333](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)
   * [m_1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
   * [m_1630](https://leetcode.com/problems/arithmetic-subarrays/)
+* November 23, 2023
+  * [m_1366](https://leetcode.com/problems/rank-teams-by-votes/) 
