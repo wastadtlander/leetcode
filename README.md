@@ -243,4 +243,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
   * [m_1630](https://leetcode.com/problems/arithmetic-subarrays/)
 * November 23, 2023
-  * [m_1366](https://leetcode.com/problems/rank-teams-by-votes/) 
+  * [m_1366](https://leetcode.com/problems/rank-teams-by-votes/)
+  * [m_1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
