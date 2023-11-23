@@ -240,3 +240,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1424](https://leetcode.com/problems/diagonal-traverse-ii/)
   * [m_1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
   * [m_1333](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)
+  * [m_1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
