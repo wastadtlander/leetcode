@@ -246,3 +246,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1366](https://leetcode.com/problems/rank-teams-by-votes/)
   * [m_1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
   * [m_1390](https://leetcode.com/problems/four-divisors/)
+  * [m_1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
