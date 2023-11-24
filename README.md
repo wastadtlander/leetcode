@@ -252,4 +252,5 @@ Profile: https://leetcode.com/wastadtlander/
 * November 24, 2023
   * [e_2859](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)
   * [m_2860](https://leetcode.com/problems/happy-students/)
-  * [m_2861](https://leetcode.com/problems/maximum-number-of-alloys/) 
+  * [m_2861](https://leetcode.com/problems/maximum-number-of-alloys/)
+  * [e_2710](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/)
