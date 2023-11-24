@@ -249,3 +249,7 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
   * [e_2923](https://leetcode.com/problems/find-champion-i/)
   * [m_2924](https://leetcode.com/problems/find-champion-ii/)
+* November 24, 2023
+  * [e_2859](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)
+  * [m_2860](https://leetcode.com/problems/happy-students/)
+  * [m_2861](https://leetcode.com/problems/maximum-number-of-alloys/) 
