@@ -247,3 +247,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
   * [m_1390](https://leetcode.com/problems/four-divisors/)
   * [m_1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
+  * [e_2923](https://leetcode.com/problems/find-champion-i/)
+  * [m_2924](https://leetcode.com/problems/find-champion-ii/)
