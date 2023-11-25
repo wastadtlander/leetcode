@@ -254,3 +254,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_2860](https://leetcode.com/problems/happy-students/)
   * [m_2861](https://leetcode.com/problems/maximum-number-of-alloys/)
   * [e_2710](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/)
+  * [m_1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
