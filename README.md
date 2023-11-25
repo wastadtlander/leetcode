@@ -255,3 +255,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_2861](https://leetcode.com/problems/maximum-number-of-alloys/)
   * [e_2710](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/)
   * [m_1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
+* November 25, 2023
+  * [e_2942](https://leetcode.com/problems/find-words-containing-character/) 
