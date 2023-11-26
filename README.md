@@ -256,4 +256,6 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2710](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/)
   * [m_1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
 * November 25, 2023
-  * [e_2942](https://leetcode.com/problems/find-words-containing-character/) 
+  * [e_2942](https://leetcode.com/problems/find-words-containing-character/)
+* November 26, 2023
+  * [m_1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) 
