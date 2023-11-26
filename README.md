@@ -258,4 +258,5 @@ Profile: https://leetcode.com/wastadtlander/
 * November 25, 2023
   * [e_2942](https://leetcode.com/problems/find-words-containing-character/)
 * November 26, 2023
-  * [m_1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) 
+  * [m_1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
+  * [e_2946](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/)
