@@ -265,4 +265,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1673](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
   * [m_1664](https://leetcode.com/problems/ways-to-make-a-fair-array/)
 * November 27, 2023
-  * [e_905](https://leetcode.com/problems/sort-array-by-parity/) 
+  * [e_905](https://leetcode.com/problems/sort-array-by-parity/)
+  * [e_2670](https://leetcode.com/problems/find-the-distinct-difference-array/)
