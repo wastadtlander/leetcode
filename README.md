@@ -262,3 +262,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2946](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/)
   * [m_935](https://leetcode.com/problems/knight-dialer/)
   * [m_1750](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
+  * [m_1673](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
