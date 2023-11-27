@@ -263,3 +263,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_935](https://leetcode.com/problems/knight-dialer/)
   * [m_1750](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
   * [m_1673](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
+  * [m_1664](https://leetcode.com/problems/ways-to-make-a-fair-array/)
