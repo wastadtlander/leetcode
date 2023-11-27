@@ -267,3 +267,4 @@ Profile: https://leetcode.com/wastadtlander/
 * November 27, 2023
   * [e_905](https://leetcode.com/problems/sort-array-by-parity/)
   * [e_2670](https://leetcode.com/problems/find-the-distinct-difference-array/)
+  * [e_2357](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
