@@ -270,3 +270,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2357](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
   * [h_2147](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/)
   * [m_1414](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)
+  * [m_560](https://leetcode.com/problems/subarray-sum-equals-k/)
+  * [m_1546](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/)
