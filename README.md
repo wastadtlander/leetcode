@@ -275,3 +275,5 @@ Profile: https://leetcode.com/wastadtlander/
 * November 28, 2023
   * [m_822](https://leetcode.com/problems/card-flipping-game/)
   * [e_191](https://leetcode.com/problems/number-of-1-bits/)
+* November 29, 2023
+  * [m_74](https://leetcode.com/problems/search-a-2d-matrix/)
