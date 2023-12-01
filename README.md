@@ -278,3 +278,4 @@ Profile: https://leetcode.com/wastadtlander/
 * November 29, 2023
   * [m_74](https://leetcode.com/problems/search-a-2d-matrix/)
   * [h_1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)
+  * [e_1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
