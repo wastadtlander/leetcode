@@ -280,3 +280,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [h_1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)
 * November 30, 2023
   * [e_1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+* December 2, 2023
+  * [e_1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) 
