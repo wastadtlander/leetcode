@@ -287,3 +287,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2951](https://leetcode.com/problems/find-the-peaks/)
   * [h_330](https://leetcode.com/problems/patching-array/)
   * [m_2952](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/)
+  * [e_283](https://leetcode.com/problems/move-zeroes/)
+  * [m_692](https://leetcode.com/problems/top-k-frequent-words/)
