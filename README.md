@@ -281,4 +281,6 @@ Profile: https://leetcode.com/wastadtlander/
 * November 30, 2023
   * [e_1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 * December 2, 2023
-  * [e_1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) 
+  * [e_1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+  * [e_1266](https://leetcode.com/problems/minimum-time-visiting-all-points/)
+  * [m_2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)
