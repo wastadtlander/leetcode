@@ -290,4 +290,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_283](https://leetcode.com/problems/move-zeroes/)
   * [m_692](https://leetcode.com/problems/top-k-frequent-words/)
 * December 3, 2023
-  * [e_2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) 
+  * [e_2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)
+  * [m_79](https://leetcode.com/problems/word-search/)
