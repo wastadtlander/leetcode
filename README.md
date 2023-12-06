@@ -294,4 +294,6 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_79](https://leetcode.com/problems/word-search/)
 * December 4, 2023
   * [e_1688](https://leetcode.com/problems/count-of-matches-in-tournament/)
-  * [m_1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) 
+  * [m_1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
+* December 5, 2023
+  * [e_1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) 
