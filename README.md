@@ -298,3 +298,5 @@ Profile: https://leetcode.com/wastadtlander/
 * December 5, 2023
   * [e_1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)
   * [e_1436](https://leetcode.com/problems/destination-city/)
+* December 6, 2023
+  * [e_1903](https://leetcode.com/problems/largest-odd-number-in-string/) 
