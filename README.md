@@ -307,3 +307,7 @@ Profile: https://leetcode.com/wastadtlander/
 * December 8, 2023
   * [e_94](https://leetcode.com/problems/binary-tree-inorder-traversal/)
   * [m_1093](https://leetcode.com/problems/statistics-from-a-large-sample)
+* December 9, 2023
+  * [e_867](https://leetcode.com/problems/transpose-matrix/)
+  * [m_553](https://leetcode.com/problems/optimal-division/)
+  * [m_817](https://leetcode.com/problems/linked-list-components/) 
