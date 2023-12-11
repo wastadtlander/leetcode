@@ -311,5 +311,7 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_867](https://leetcode.com/problems/transpose-matrix/)
   * [m_553](https://leetcode.com/problems/optimal-division/)
   * [m_817](https://leetcode.com/problems/linked-list-components/)
+  * [e_2960](https://leetcode.com/problems/count-tested-devices-after-test-operations/)
+  * [m_2962](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
 * December 10, 2023
   * [e_1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) 
