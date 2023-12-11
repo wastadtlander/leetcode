@@ -310,4 +310,6 @@ Profile: https://leetcode.com/wastadtlander/
 * December 9, 2023
   * [e_867](https://leetcode.com/problems/transpose-matrix/)
   * [m_553](https://leetcode.com/problems/optimal-division/)
-  * [m_817](https://leetcode.com/problems/linked-list-components/) 
+  * [m_817](https://leetcode.com/problems/linked-list-components/)
+* December 10, 2023
+  * [e_1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) 
