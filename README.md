@@ -314,4 +314,8 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2960](https://leetcode.com/problems/count-tested-devices-after-test-operations/)
   * [m_2962](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
 * December 10, 2023
-  * [e_1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) 
+  * [e_1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
+* December 11, 2023
+  * [e_1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+  * [e_2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)
+  * [e_657](https://leetcode.com/problems/robot-return-to-origin/) 
