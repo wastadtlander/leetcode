@@ -318,4 +318,6 @@ Profile: https://leetcode.com/wastadtlander/
 * December 11, 2023
   * [e_1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
   * [e_2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)
-  * [e_657](https://leetcode.com/problems/robot-return-to-origin/) 
+  * [e_657](https://leetcode.com/problems/robot-return-to-origin/)
+* December 12, 2023
+  * [e_1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) 
