@@ -320,4 +320,8 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)
   * [e_657](https://leetcode.com/problems/robot-return-to-origin/)
 * December 12, 2023
-  * [e_1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) 
+  * [e_1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)
+* December 13, 2023
+  * [m_2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)
+* December 14, 2023
+  * [m_2942](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) 
