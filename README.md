@@ -324,4 +324,5 @@ Profile: https://leetcode.com/wastadtlander/
 * December 13, 2023
   * [m_2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)
 * December 14, 2023
-  * [m_2942](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) 
+  * [m_2942](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
+  * [e_2540](https://leetcode.com/problems/minimum-common-value/)
