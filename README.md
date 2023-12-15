@@ -327,3 +327,4 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_2942](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
   * [e_2540](https://leetcode.com/problems/minimum-common-value/)
   * [e_2706](https://leetcode.com/problems/buy-two-chocolates/)
+  * [e_1436](https://leetcode.com/problems/destination-city/)
