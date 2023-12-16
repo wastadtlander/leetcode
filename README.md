@@ -329,4 +329,9 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2706](https://leetcode.com/problems/buy-two-chocolates/)
   * [e_1436](https://leetcode.com/problems/destination-city/)
 * December 15, 2023
-  * [e_242](https://leetcode.com/problems/valid-anagram/) 
+  * [e_242](https://leetcode.com/problems/valid-anagram/)
+  * [m_1780](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)
+  * [m_1764](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)
+  * [m_1492](https://leetcode.com/problems/the-kth-factor-of-n/)
+* December 16, 2023
+  * [e_2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/) 
