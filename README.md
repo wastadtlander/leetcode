@@ -328,3 +328,5 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_2540](https://leetcode.com/problems/minimum-common-value/)
   * [e_2706](https://leetcode.com/problems/buy-two-chocolates/)
   * [e_1436](https://leetcode.com/problems/destination-city/)
+* December 15, 2023
+  * [e_242](https://leetcode.com/problems/valid-anagram/) 
