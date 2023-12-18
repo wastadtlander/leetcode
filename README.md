@@ -334,4 +334,12 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_1764](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)
   * [m_1492](https://leetcode.com/problems/the-kth-factor-of-n/)
 * December 16, 2023
-  * [e_2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/) 
+  * [e_2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
+  * [e_1816](https://leetcode.com/problems/truncate-sentence/)
+  * [e_594](https://leetcode.com/problems/longest-harmonious-subsequence/)
+  * [e_495](https://leetcode.com/problems/teemo-attacking/)
+  * [m_2353](https://leetcode.com/problems/design-a-food-rating-system/)
+  * [m_2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/)
+  * [m_1357](https://leetcode.com/problems/apply-discount-every-n-orders/)
+* December 17, 2023
+  * [e_1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)   
