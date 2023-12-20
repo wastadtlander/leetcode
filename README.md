@@ -342,4 +342,10 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/)
   * [m_1357](https://leetcode.com/problems/apply-discount-every-n-orders/)
 * December 17, 2023
-  * [e_1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)   
+  * [e_1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
+* December 18, 2023
+  * [e_661](https://leetcode.com/problems/image-smoother/)
+  * [m_2730](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/)
+* December 19, 2023
+  * [e_2706](https://leetcode.com/problems/buy-two-chocolates/)
+  * [e_617](https://leetcode.com/problems/merge-two-binary-trees/) 
