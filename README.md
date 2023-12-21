@@ -348,4 +348,8 @@ Profile: https://leetcode.com/wastadtlander/
   * [m_2730](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/)
 * December 19, 2023
   * [e_2706](https://leetcode.com/problems/buy-two-chocolates/)
-  * [e_617](https://leetcode.com/problems/merge-two-binary-trees/) 
+  * [e_617](https://leetcode.com/problems/merge-two-binary-trees/)
+  * [e_705](https://leetcode.com/problems/design-hashset/)
+  * [e_541](https://leetcode.com/problems/reverse-string-ii/)
+* December 20, 2023
+  * [m_1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) 
