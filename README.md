@@ -352,4 +352,10 @@ Profile: https://leetcode.com/wastadtlander/
   * [e_705](https://leetcode.com/problems/design-hashset/)
   * [e_541](https://leetcode.com/problems/reverse-string-ii/)
 * December 20, 2023
-  * [m_1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) 
+  * [m_1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)
+* December 21, 2023
+  * [e_1370](https://leetcode.com/problems/increasing-decreasing-string/)
+  * [e_2367](https://leetcode.com/problems/number-of-arithmetic-triplets/)
+  * [e_1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
+  * [e_1768](https://leetcode.com/problems/merge-strings-alternately/)
+  * [m_2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) 
